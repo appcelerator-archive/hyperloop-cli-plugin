@@ -1,0 +1,27 @@
+{
+  "name": "hyperloop-cli-plugin",
+  "version": "1.0.0",
+  "description": "Hyperloop CLI plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/appcelerator/hyperloop-cli-plugin.git"
+  },
+  "keywords": [
+    "appcelerator",
+    "hyperloop",
+    "appc-cli-plugin"
+  ],
+  "author": "Jeff Haynie",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/appcelerator/hyperloop-cli-plugin/issues"
+  },
+  "homepage": "https://github.com/appcelerator/hyperloop-cli-plugin#readme",
+  "dependencies": {
+    "gulp": "^3.9.1"
+  }
+}
