@@ -1,4 +1,4 @@
-var props = ['publish'];
+var props = ['publish', 'new'];
 
 props.forEach(function (prop) {
 	Object.defineProperty(exports, prop, {
